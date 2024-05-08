@@ -1,9 +1,7 @@
 <h1 align="center">Bom dia! Meu nome é Maria Eduarda Oliveira Vitorino.</h1>
 <h3 align="center">Aprendendo a programar.</h3>
 
-- 🌱 Estou cursando **desenvolvimento de sistemas na Etec.**
-
-- 💻 Facilidade em **banco de dados.**
+- 🌱 Fiz curso de **desenvolvimento de sistemas na Etec.**
 
 - 📫 Meu email: **dudarex2205@gmail.com**
 
