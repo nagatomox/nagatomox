@@ -3,7 +3,7 @@
 
 - 🌱 Fiz curso de **desenvolvimento de sistemas na Etec.**
 
-- 📫 Meu email: **dudarex2205@gmail.com**
+- 📫 Meu email: **dudanagatomo22@gmail.com**
 
 <h3 align="left">Contato:</h3>
 <p align="left">
